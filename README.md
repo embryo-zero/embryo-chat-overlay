@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Chat Overlay
+
+**Embryo Chat Overlay** is Embryo-Zero's fork of [Social Stream Ninja](https://github.com/steveseguin/social_stream), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
